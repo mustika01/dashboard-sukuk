@@ -9,13 +9,13 @@
 <script src="{{ asset('templates/vuexy/assets/vendor/libs/quill/quill.js') }}"></script>
 <script src="{{ asset('templates/vuexy/assets/vendor/libs/block-ui/block-ui.js') }}"></script>
 <script src="{{ asset('templates/vuexy/assets/vendor/libs/select2/select2.js') }}"></script>
-<script src="{{ asset('templates/vuexy/assets/vendor/libs/sweetalert2.js') }}"></script>
 
 <script src="{{ asset('templates/vuexy/assets/vendor/js/menu.js') }}"></script>
 @yield('menu-js')
 <!-- endbuild -->
 
 <!-- Vendors JS -->
+<script src="{{ asset('assets/js/sweetalert2.all.min.js') }}"></script>
 <script src="{{ asset('assets/js/jquery.validate.min.js') }}"></script>
 @yield('vendor-js')
 

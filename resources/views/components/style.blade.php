@@ -1,6 +1,6 @@
  <!-- Favicon -->
  <!-- <link rel="icon" type="image/x-icon" href="{{ asset('templates/vuexy/assets/img/favicon/favicon.ico') }}" /> -->
- <link rel="icon" type="image/x-icon" href="<?= asset('assets/image/icon_title.gif') ?>">
+ <link rel="icon" type="image/x-icon" href="<?= asset('assets/images/icon_title.gif') ?>">
 
  <!-- Icons -->
  <link rel="stylesheet" href="{{ asset('templates/vuexy/assets/vendor/fonts/tabler-icons.css') }}" />
